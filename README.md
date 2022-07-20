@@ -11,7 +11,7 @@ RevivalTV Frontend Test main platform Frontend built with [Next.js](https://next
 
 ## Demo with vercel
 
-
+- https://ecommerce-storybook-nextjs-tailwindcss.vercel.app/
 
 ## Prerequisite
 

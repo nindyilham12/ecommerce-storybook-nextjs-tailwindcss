@@ -10,9 +10,9 @@ const navigation = [
     { name: 'SUPPORT', href: '#', current: false }
 ]
 
-const NavHead = ({bgColor, onSearch }) => {
+const NavHead = ({onSearch }) => {
     return (
-        <Disclosure as="nav" className={`${bgColor === "black" ? "bg-black" : ""}`}>
+        <Disclosure as="nav" className="bg-black">
             {({ open }) => (
                 <>
                     <div className="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
