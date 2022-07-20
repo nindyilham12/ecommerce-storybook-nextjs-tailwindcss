@@ -5,7 +5,6 @@ RevivalTV Frontend Test main platform Frontend built with [Next.js](https://next
 ## Table of Content
 
 - [Demo with vercel](#Demo-with-vercel)
-- [Design Figma](#Design-figma)
 - [Prerequisite](#Prerequisite)
 - [Getting started](#Getting-started)
 - [Build to production](#Build-to-production)
@@ -14,9 +13,6 @@ RevivalTV Frontend Test main platform Frontend built with [Next.js](https://next
 
 - https://ecommerce-storybook-nextjs-tailwindcss.vercel.app/
 
-## Design Figma
-
-- https://www.figma.com/file/5Q8w7WmcTu6OIGPJAbsjMc/Frontend-Dev---Test?node-id=0%3A1
 
 ## Prerequisite
 
